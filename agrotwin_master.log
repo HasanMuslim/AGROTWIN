@@ -1,0 +1,9 @@
+2026-03-27 20:51:44 [INFO] ============================================================
+2026-03-27 20:51:44 [INFO]   AGROTWIN Master Node v2.0.0 başlatılıyor...
+2026-03-27 20:51:44 [INFO] ============================================================
+2026-03-27 20:51:44 [INFO] [DB] SQLite veritabanı hazır: agrotwin_data.db
+2026-03-27 20:51:44 [ERROR] Eğitim hatası: 'timestamp'
+2026-03-27 20:51:44 [INFO] [ML] Cold-Start modu. 50 örnek toplanması bekleniyor.
+2026-03-27 20:51:44 [INFO] [SİSTEM] MQTT döngüsü başladı. Sensörler bekleniyor...
+2026-03-27 20:51:45 [INFO] [MQTT] Broker'a bağlandı: broker.hivemq.com:1883
+2026-03-27 20:51:45 [INFO] [MQTT] Abonelikler: agrotwin/sensorler, agrotwin/chat/soru
